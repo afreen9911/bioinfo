@@ -1,4 +1,5 @@
 # bioinfo
 M.Sc Bioinformatics 
 <br>
-C++ space
+Python learning space
+
