@@ -1,4 +1,4 @@
-##**About me**
+## About Me
 🧬 Bioinformatics student  
 💻 Learning to code & analyze biological data  
 🌱 Beginner, building projects step by step  
